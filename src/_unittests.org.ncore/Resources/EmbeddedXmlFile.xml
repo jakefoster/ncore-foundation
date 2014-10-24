@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Test>
+	<ElementNode>This is a test xml element node.</ElementNode>
+</Test>
