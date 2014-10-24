@@ -12,12 +12,19 @@
     <Major>01</Major>
     <Minor>07</Minor>
     <Patch>05</Patch>
-    <Build>242</Build>
+    <Build>241</Build>
+    <Printable>1.7.5.241</Printable>
+    <Sortable>01.07.05.00241</Sortable>
   </Version>
   <Configuration>
     <Label>Beta</Label>
+    <Name>Debug</Name>
   </Configuration>
   <Build>
     <Label>Release</Label>
+    <BuildDateTimeUtc>2014-10-24T00:04:58Z</BuildDateTimeUtc>
+    <BuildDateTimeLocal>2014-10-23T17:04:58-07:00</BuildDateTimeLocal>
+    <ShortName>org.ncore 1.7.5.241 (Release) «Debug»</ShortName>
+    <FriendlyName>org.ncore, version 1.7.5.241, '2014 R1' (Beta, Release) «Debug»</FriendlyName>
   </Build>
 </Application>
